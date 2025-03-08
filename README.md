@@ -1,21 +1,28 @@
-## Olá!👋 sou genival Barreira estudante de sistemas de informação.
+## Olá!👋 sou genival Barreira.
 
-<div style="display: flex;  border-radius:10px; justify-content: center; gap: 30px;">
-  <a href="https://beacons.al/Genival-Barreira">
-    <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Genival-Barreira&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://beacons.al/Genival-Barreira">
-    <img height="180em" width="580em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genival-Barreira&layout=compact&langs_count=16&theme=tokyonight"/>
-  </a>
-</div>
 
-##
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+
+![Genival-Barreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Genival-Barreira&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genival-Barreira&layout=donut)](https://github.com/Genival-Barreira/github-readme-stats)
+
+## Tecnologias que ja usei
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Js" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" height="30" width="40" src="https://br.freepik.com/icone/html-5_5968267#fromView=search&page=1&position=0&uuid=8c18d804-5e73-4c57-a908-091be67609a7">
-<img align="right" alt="Rafa-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="python"  width="auto" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</div><br/>
+
+💻 Aspirante a desenvolvedor, estundando em busca de uma boa qualificação.
+
+
+
+
+
 
