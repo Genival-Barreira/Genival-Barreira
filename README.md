@@ -1,8 +1,8 @@
 ## Olá!👋 sou genival Barreira.
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gbarreira.tec@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/genival-barreira)
+
 
 ![Genival-Barreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Genival-Barreira&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Genival-Barreira&layout=donut&theme=radical)](https://github.com/Genival-Barreira/github-readme-stats)
 
